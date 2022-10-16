@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Alisa Liu</title>
+    <link>https://alisawuffles.github.com/post/</link>
+      <atom:link href="https://alisawuffles.github.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alisawuffles.github.com/media/icon_hud8834e9ff972feb9f2e083fdfd5a8c45_7247_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://alisawuffles.github.com/post/</link>
+    </image>
+    
+    <item>
+      <title>Study guides from undergrad</title>
+      <link>https://alisawuffles.github.com/post/study-guides/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/post/study-guides/</guid>
+      <description>&lt;p&gt;I really enjoy making study guides! Here are a couple I&amp;rsquo;m especially proud of, and I hope they are useful resources for other students.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;sml.pdf&#34;&gt;EECS 396: Statistical Machine Learning&lt;/a&gt;
+The professor shared the topic being tested by every problem on the final, so I organized course content around it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;math_312.pdf&#34;&gt;Math 312: Number Theory&lt;/a&gt;
+One of my favorite classes (and subjects) of all time. I shared this with the class and passed it on to many students who would take the course after me. I still hear from people who use it, which makes me really happy.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;math_320.pdf&#34;&gt;Math 320: Real Analysis&lt;/a&gt;
+This class ⁠makes robust everything we know and love from calculus. In this study guide I try to outline approaches to common problems and provide examples of functions with interesting properties.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;math_307.pdf&#34;&gt;Math 307: Applications of Linear Algebra&lt;/a&gt;
+More of a formula sheet than a study guide.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

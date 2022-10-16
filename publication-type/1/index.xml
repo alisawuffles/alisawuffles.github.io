@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Alisa Liu</title>
+    <link>https://alisawuffles.github.com/publication-type/1/</link>
+      <atom:link href="https://alisawuffles.github.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alisawuffles.github.com/media/icon_hud8834e9ff972feb9f2e083fdfd5a8c45_7247_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://alisawuffles.github.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Generated Knowledge Prompting for Commonsense Reasoning</title>
+      <link>https://alisawuffles.github.com/publication/knowledge_gen/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/knowledge_gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts</title>
+      <link>https://alisawuffles.github.com/publication/dexperts/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/dexperts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Selection for Deep Audio Source Separation via Clustering Analysis</title>
+      <link>https://alisawuffles.github.com/publication/ensemble/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/ensemble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bach or Mock? A Grading Function for Chorales in the Style of J.S. Bach</title>
+      <link>https://alisawuffles.github.com/publication/grading_function/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/grading_function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating Music Knowledge in Continual Dataset Augmentation for Music Generation</title>
+      <link>https://alisawuffles.github.com/publication/aug_gen/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/aug_gen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODAH: An Adversarially-Authored Question Answering Dataset for Common Sense</title>
+      <link>https://alisawuffles.github.com/publication/codah/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/codah/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

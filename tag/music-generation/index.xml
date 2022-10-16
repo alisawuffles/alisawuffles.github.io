@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music generation | Alisa Liu</title>
+    <link>https://alisawuffles.github.com/tag/music-generation/</link>
+      <atom:link href="https://alisawuffles.github.com/tag/music-generation/index.xml" rel="self" type="application/rss+xml" />
+    <description>music generation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alisawuffles.github.com/media/icon_hud8834e9ff972feb9f2e083fdfd5a8c45_7247_512x512_fill_lanczos_center_3.png</url>
+      <title>music generation</title>
+      <link>https://alisawuffles.github.com/tag/music-generation/</link>
+    </image>
+    
+    <item>
+      <title>Bach or Mock? A Grading Function for Chorales in the Style of J.S. Bach</title>
+      <link>https://alisawuffles.github.com/publication/grading_function/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/grading_function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating Music Knowledge in Continual Dataset Augmentation for Music Generation</title>
+      <link>https://alisawuffles.github.com/publication/aug_gen/</link>
+      <pubDate>Sat, 18 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/aug_gen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

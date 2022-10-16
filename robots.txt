@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://alisawuffles.github.com/sitemap.xml
