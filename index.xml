@@ -33,6 +33,30 @@
     </item>
     
     <item>
+      <title>We&#39;re Afraid Language Models Aren&#39;t Modeling Ambiguity</title>
+      <link>https://alisawuffles.github.com/publication/ambient/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/ambient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Instruct: Aligning Language Models with Self-Generated Instructions</title>
+      <link>https://alisawuffles.github.com/publication/self_instruct/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/self_instruct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detoxifying Text with MaRCo: Controllable Revision with Experts and Anti-Experts</title>
+      <link>https://alisawuffles.github.com/publication/marco/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/marco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>WANLI: Worker and AI Collaboration for Natural Language Inference Dataset Creation</title>
       <link>https://alisawuffles.github.com/publication/wanli/</link>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>

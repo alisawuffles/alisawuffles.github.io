@@ -5,12 +5,36 @@
     <link>https://alisawuffles.github.com/publication-type/1/</link>
       <atom:link href="https://alisawuffles.github.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alisawuffles.github.com/media/icon_hud8834e9ff972feb9f2e083fdfd5a8c45_7247_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://alisawuffles.github.com/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Self-Instruct: Aligning Language Models with Self-Generated Instructions</title>
+      <link>https://alisawuffles.github.com/publication/self_instruct/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/self_instruct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detoxifying Text with MaRCo: Controllable Revision with Experts and Anti-Experts</title>
+      <link>https://alisawuffles.github.com/publication/marco/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/marco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WANLI: Worker and AI Collaboration for Natural Language Inference Dataset Creation</title>
+      <link>https://alisawuffles.github.com/publication/wanli/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/wanli/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generated Knowledge Prompting for Commonsense Reasoning</title>
