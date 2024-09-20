@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hallucination | Alisa Liu</title>
+    <link>https://alisawuffles.github.com/tag/hallucination/</link>
+      <atom:link href="https://alisawuffles.github.com/tag/hallucination/index.xml" rel="self" type="application/rss+xml" />
+    <description>hallucination</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alisawuffles.github.com/media/icon_hud8834e9ff972feb9f2e083fdfd5a8c45_7247_512x512_fill_lanczos_center_3.png</url>
+      <title>hallucination</title>
+      <link>https://alisawuffles.github.com/tag/hallucination/</link>
+    </image>
+    
+    <item>
+      <title>How Language Model Hallucinations Can Snowball</title>
+      <link>https://alisawuffles.github.com/publication/snowballing/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/snowballing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
