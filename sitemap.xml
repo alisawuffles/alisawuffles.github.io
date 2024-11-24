@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alisawuffles.github.com/publication-type/3/</loc>
+    <loc>https://alisawuffles.github.com/publication-type/1/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -22,6 +22,10 @@
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://alisawuffles.github.com/publication-type/3/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://alisawuffles.github.com/tags/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -32,10 +36,6 @@
   </url><url>
     <loc>https://alisawuffles.github.com/publication/proxy_tuning/</loc>
     <lastmod>2024-01-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alisawuffles.github.com/publication-type/1/</loc>
-    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://alisawuffles.github.com/tag/ambiguity/</loc>
