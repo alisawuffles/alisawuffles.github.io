@@ -2,32 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alisawuffles.github.com/publication-type/1/</loc>
-    <lastmod>2024-07-23T00:00:00+00:00</lastmod>
+    <loc>https://alisawuffles.github.com/publication-type/3/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://alisawuffles.github.com/</loc>
-    <lastmod>2024-07-23T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/publication_types/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/publication/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/publication/byte_sampler/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/tags/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/tag/tokenization/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/publication/broken_tokens/</loc>
+    <lastmod>2025-07-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/publication-type/1/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/publication/superbpe/</loc>
+    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/tag/post-training/</loc>
+    <lastmod>2025-07-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/publication/tulu3/</loc>
+    <lastmod>2025-07-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/publication/semantic_leakage/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alisawuffles.github.com/publication/llamapie/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://alisawuffles.github.com/publication/bpe/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alisawuffles.github.com/publication_types/</loc>
-    <lastmod>2024-07-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alisawuffles.github.com/publication/</loc>
-    <lastmod>2024-07-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alisawuffles.github.com/publication-type/3/</loc>
-    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alisawuffles.github.com/tags/</loc>
-    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://alisawuffles.github.com/tag/text-generation/</loc>

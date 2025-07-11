@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tokenization | Alisa Liu</title>
+    <link>https://alisawuffles.github.com/tag/tokenization/</link>
+      <atom:link href="https://alisawuffles.github.com/tag/tokenization/index.xml" rel="self" type="application/rss+xml" />
+    <description>tokenization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alisawuffles.github.com/media/icon_hud8834e9ff972feb9f2e083fdfd5a8c45_7247_512x512_fill_lanczos_center_3.png</url>
+      <title>tokenization</title>
+      <link>https://alisawuffles.github.com/tag/tokenization/</link>
+    </image>
+    
+    <item>
+      <title>Sampling from Your Language Model One Byte at a Time</title>
+      <link>https://alisawuffles.github.com/publication/byte_sampler/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/byte_sampler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations</title>
+      <link>https://alisawuffles.github.com/publication/broken_tokens/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/broken_tokens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SuperBPE: Space Travel for Language Models</title>
+      <link>https://alisawuffles.github.com/publication/superbpe/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://alisawuffles.github.com/publication/superbpe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
